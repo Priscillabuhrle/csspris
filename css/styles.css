@@ -1,0 +1,56 @@
+body {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzj270d8TBE8tLpWxRTgareq9LBoZlcrEiiX8G3PnHWnuLisBbsA);
+}
+
+
+.intro{
+	background-color: rgba(75,92,219,.5);
+	color: #FEFDFC;
+	text-align: center;
+}
+.sumary {
+	background-color: rgba(131,136,174,.2); 
+}
+.preamble{
+   background-color: #B9B9F7 ;
+}
+.main {
+  background-color: #F5DC76 ;
+}
+.participation {
+   background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXF2SuKOLAGM4rB2YLzgaMmaFkoqlqMfmCVvIsWNBFdCq_Yu03zQ);
+   color: #F7F6E8;
+}
+.benefits{
+    background-color: #FBEA29;
+}
+.requirements{
+    background-color: #FBC229;
+}
+.requirements a {
+	color: red;
+}
+.sidebar{
+   color: #F1EA7A;
+}
+.design-selection {
+   color: #F1EA7A ;
+}
+
+h1 {
+	color:#F9EB0B ;
+	font-family: cursive;
+	font-size: 50px;
+	text-align: center; 
+}
+
+li {
+	color: #EBECF3 ;
+}
+a{
+	color: #BDBFCC ;
+}
+
+h3 {
+	font-size: 25px;
+}
